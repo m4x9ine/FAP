@@ -1,2 +1,2 @@
-# BAP
-basics of algorithmization and programming (university) - C++
+# FAP
+fundamentals of algorithmization and programming (university) - C++
